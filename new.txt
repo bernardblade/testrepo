@@ -1,2 +1,2 @@
-ECHO is on.
-bob 
+'bob the builder' 
+plusz meg ezis 
